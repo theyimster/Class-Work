@@ -1,9 +1,3 @@
-//
-// Address Book
-// By: Brandon Pope
-// Date: 4/22/18 9:00 P.M.
-// Due: 4/22/18 11:59 P.M.
-//
 // Description:
 //  Program allows user to use a file to keep an address book. This address book can be
 //  manipulated by the user in different ways. These include: displaying, editing, deleting, and searching the contacts.
