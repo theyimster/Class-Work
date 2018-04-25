@@ -2,8 +2,8 @@
 #include <ctime>
 #include <cstdlib>
 #include <string>
-#include <limits>
 using namespace std;
+
 bool playGame(int total); // passed player total amount - plays a complete game, returns true for win and false for loss
 int getBet(int total); // passed player total amount and returns a valid bet (0 - total)
 int getNumber(string prompt, int lowRange, int highRange); // returns a number in the given range
